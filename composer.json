@@ -1,0 +1,16 @@
+{
+    "name": "heart/php",
+    "description": "learn php script",
+    "autoload": {
+        "psr-4": {
+            "heart\\php\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jiasiyuan",
+            "email": "jiasiyuan91@foxmail.com"
+        }
+    ],
+    "require": {}
+}
